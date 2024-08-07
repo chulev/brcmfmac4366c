@@ -8,7 +8,7 @@ on:
       firmware:
         description: "Firmware zip url"
         required: true
-        default: "https://dlsvr04.asus.com.cn/pub/ASUS/wireless/RT-AC88U/FW_RT_AC88U_300438648260.zip"
+        default: "https://dlcdnets.asus.com/pub/ASUS/wireless/RT-AC88U/FW_RT_AC88U_300438648263.zip"
 
 env:
   TZ: Asia/Shanghai
